@@ -214,6 +214,7 @@ http://pear.php.net/dtd/package-2.0.xsd">
   <configureoption name="enable-memcached-protocol" prompt="enable server protocol"     default="no"/>
   <configureoption name="enable-memcached-sasl"     prompt="enable sasl"                default="yes"/>
   <configureoption name="enable-memcached-session"  prompt="enable sessions"            default="yes"/>
+  <configureoption name="disable-memcached-tls"     prompt="disable tls"                default="yes"/>
  </extsrcrelease>
  <changelog>
     <release>
